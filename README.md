@@ -1,1 +1,1 @@
-# Pok-mon-Data-Science
+# Pokemon-Data-Science
